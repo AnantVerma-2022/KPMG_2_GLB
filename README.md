@@ -35,42 +35,6 @@ By the end of the program, students should be able to:
 ---
 
 📚 Training Roadmap
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │      │
-        │      ├── Regression
-        │      │      └── Linear Regression
-        │      │
-        │      └── Classification
-        │             └── Logistic Regression
-        │
-        ├── Generative AI
-        │      │
-        │      ├── Language Models
-        │      ├── LLMs
-        │      ├── Transformers
-        │      └── Hugging Face
-        │
-        ├── Prompt Engineering
-        │      ├── Zero-Shot
-        │      ├── Few-Shot
-        │      ├── Chain-of-Thought
-        │      ├── Instruction Prompting
-        │      ├── System/User Prompts
-        │      └── Prompt Chaining
-        │
-        ├── Responsible AI
-        │      ├── Bias
-        │      ├── Hallucinations
-        │      ├── Privacy
-        │      ├── Security
-        │      ├── AI Risks
-        │      ├── EU AI Act
-        │      └── GDPR
-        │
-        └── AI Automation
-               ├── AI Workflows
-               ├── n8n
-               ├── AI in IT Operations
-               └── Agentic AI
+
+<img width="1149" height="1369" alt="ChatGPT Image Aug 21, 2026, 10_34_41 AM" src="https://github.com/user-attachments/assets/d99329b3-2775-4b96-aace-10d4506d148c" />
+
